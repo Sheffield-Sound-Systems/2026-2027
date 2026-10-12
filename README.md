@@ -10,7 +10,7 @@ To upload your teams design please find your allocated folder below:
 | ------------- |
 | [EXAMPLE](https://github.com/CyanCertified/Testing-out-github/tree/main/Designs/Pedal/Team%201)    |
 | [Contactless Gesture Expression Pedal](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/Contactless%20Gesture%20Expression%20Pedal)    |
-| Delay Effect Pedal](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/Delay%20Effect%20Pedal)      |
+| [Delay Effect Pedal](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/Delay%20Effect%20Pedal)      |
 ### Uploading Your Design
 Now with your folder located and your schematics and designs in the right format
 you can upload your design.
