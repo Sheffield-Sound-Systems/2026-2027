@@ -8,7 +8,7 @@ First please format your files so you can upload both your LTspice Schematic and
 To upload your teams design please find your allocated folder below:
 | Team Name |
 | ------------- |
-| [EXAMPLE](https://github.com/CyanCertified/Testing-out-github/tree/main/Designs/Pedal/Team%201)    |
+| [EXAMPLE](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/EXAMPLE)    |
 | [Contactless Gesture Expression Pedal](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/Contactless%20Gesture%20Expression%20Pedal)    |
 | [Delay Effect Pedal](https://github.com/Sheffield-Sound-Systems/2026-2027/tree/main/Designs/Pedal/Delay%20Effect%20Pedal)      |
 ### Uploading Your Design
