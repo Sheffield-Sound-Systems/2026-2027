@@ -3,7 +3,12 @@ Home for Sound System's designs of 2026/27
 ## Adding Designs
 ### Formatting files
 First please format your files so you can upload both your LTspice Schematic and KiCad PCB & schematic in seperate folders appropriately:
-![example alt text](ImageURL.png)
+You should have two folders- one for LTspice design and one for the PCB design
+![Project Folder Example](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/f8023b3db4124f80ceaf77909ef14950fbfa0a7b/README_images/Screenshot%202026-10-12%20200457.png)
+Within the LTspice folder you should include the **.asc** file of your design and any additonal **external component libraries**:
+![LTspice folder example](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/f8023b3db4124f80ceaf77909ef14950fbfa0a7b/README_images/Screenshot%202026-10-12%20201032.png)
+In the PCB folder you should have the **.kicad_sch, .kicad_pcb & .kicad_pro** files, you can also include the Bill Of Materials (BOM) if you wish: 
+![PCB folder example](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/f8023b3db4124f80ceaf77909ef14950fbfa0a7b/README_images/Screenshot%202026-10-12%20201356.png)
 ### Finding Your Folder
 To upload your teams design please find your allocated folder below:
 | Team Name |
