@@ -22,10 +22,25 @@ To upload your teams design please find your allocated folder below:
 ### Uploading Your Design
 Now with your folder located and your schematics and designs in the right format
 you can upload your design.
-1. Press upload file on the top right when you're in your Team's file.
-2. Drag and drop the LTspice & KiCad folder into the window.
-3. Press make pull request.
-4. Wait for a member of the management team to review the design and approve it.
+1. Press fork at the top of the page and creat a fork of the repository under your own account:
+
+![fork image](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/9e1a9627ee7c968981b319611ed247a1a825488d/README_images/Forking.png)
+
+2. Find your group's folder in your forked repository and press Add file and then Upload files: 
+
+![Upload file](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/9e1a9627ee7c968981b319611ed247a1a825488d/README_images/UploadingFiles.png)
+
+3. Drag and drop the LTspice & KiCad folder into the window.
+4. Press Commit changes to save your newly uploaded files to your fork.
+5. At the top of the page on your forked repository press contribute and then open pull request:
+
+![Opening pull request page](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/9e1a9627ee7c968981b319611ed247a1a825488d/README_images/OpenPullPage.png)
+
+6.Add a meaningful title with your group name and what you're adding. Then press create pull request: 
+
+![Creating a pull request](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/9e1a9627ee7c968981b319611ed247a1a825488d/README_images/MakePullRequest.png)
+
+7. Wait for a member of the management team to review the design and approve it.
 ----------------------------------------------------------
 <details>
 <summary>Sem-1</summary>
