@@ -32,7 +32,7 @@ you can upload your design.
 
 3. Drag and drop the LTspice & KiCad folder into the window.
 4. Press Commit changes to save your newly uploaded files to your fork.
-5. At the top of the page on your forked repository press contribute and then open pull request:
+5. At the top of the main page on your forked repository press contribute and then open pull request:
 
 ![Opening pull request page](https://github.com/Sheffield-Sound-Systems/2026-2027/blob/9e1a9627ee7c968981b319611ed247a1a825488d/README_images/OpenPullPage.png)
 
